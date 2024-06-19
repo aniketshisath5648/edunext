@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="54" height="54" fill="#35aee3"/>
+    </clipPath>
+  </defs>
+  <g id="Payment" transform="translate(-1273 -918)">
+    <circle id="Ellipse_75" data-name="Ellipse 75" cx="34" cy="34" r="34" transform="translate(1273 918)" fill="#08abff" opacity="0.1"/>
+    <g id="Payment-2" data-name="Payment" transform="translate(405.035 585.067)">
+      <g id="Group_1808" data-name="Group 1808" transform="translate(874.965 339.933)" clip-path="url(#clip-path)">
+        <g id="Group_1807" data-name="Group 1807" transform="translate(3.375 10.15)">
+          <path id="Path_2591" data-name="Path 2591" d="M908.114,365.583l.766-.246H877.965v8.37a6.9,6.9,0,0,0,6.9,6.9H913.6C910.7,378.427,906.833,373.877,908.114,365.583Zm-17.508,9.908h-6.633a1.58,1.58,0,0,1,0-3.16h6.633a1.58,1.58,0,1,1,0,3.16Z" transform="translate(-877.965 -346.907)" fill="#35aee3"/>
+          <path id="Path_2592" data-name="Path 2592" d="M882.393,359a1.58,1.58,0,0,0,1.58,1.581h41.242v7.082l-4.463-1.527a1.579,1.579,0,0,0-1.546-1.909H877.965v-8.371a6.9,6.9,0,0,1,6.9-6.9h33.451a6.9,6.9,0,0,1,6.9,6.9v1.565H883.973A1.579,1.579,0,0,0,882.393,359Z" transform="translate(-877.965 -348.955)" fill="#35aee3"/>
+          <g id="Group_1806" data-name="Group 1806" transform="translate(37.73 18.073)">
+            <g id="Group_1805" data-name="Group 1805">
+              <path id="Path_2593" data-name="Path 2593" d="M913.657,365.377H911.5l1.11-.357Z" transform="translate(-911.502 -365.02)" fill="#35aee3"/>
+            </g>
+          </g>
+          <path id="Path_2594" data-name="Path 2594" d="M912.961,380.114s-8.01-2.987-6.477-12.915l5.669-1.823,1.11-.357,1.044.357,5.332,1.823S920.831,377.943,912.961,380.114Z" transform="translate(-874.425 -346.947)" fill="#35aee3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
